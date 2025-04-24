@@ -89,4 +89,4 @@ Come build something beautiful 💖
 
 
 
-![jimbl vibes](https://www.icegif.com/wp-content/uploads/icegif-3799.gif)
+![jimbl vibes](./media/readme_heart.gif)
