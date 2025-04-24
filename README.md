@@ -12,6 +12,8 @@
 ✨ A cozy place for our crew to explore, build, and vibe together.  
 Protected. Modded. 💾 💖
 
+> Current version: **JIMBL 1.0**
+
 
 ## 🧭 Server Info
 
